@@ -1,0 +1,1 @@
+Run server from "Mongodb Atlas" first to run this project
